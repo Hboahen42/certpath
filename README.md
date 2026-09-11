@@ -1,2 +1,8 @@
-# certpath
-AI-powered IT certification recommendation and study schedule management system
+# Certpath
+
+## Team Members
+- Humphrey Boahen
+- Nazha Hossain
+
+## Project Abstract
+
