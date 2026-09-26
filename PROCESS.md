@@ -1,4 +1,4 @@
-**Development Process**
+# Development Process
 
 Our team uses Scrum as the Agile development process for this project. Development is organized into sprints, with tasks selected from our Product Backlog for each sprint.
 
